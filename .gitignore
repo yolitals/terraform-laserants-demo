@@ -1,0 +1,9 @@
+.terraform/
+inventory
+*.retry
+command
+**/inventory
+**/terraform.*
+**/.credentials/
+**/sensitive.auto.tfvars
+**/.terraform*
